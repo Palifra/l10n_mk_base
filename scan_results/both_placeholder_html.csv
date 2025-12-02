@@ -1,0 +1,17 @@
+msgid,msgstr,placeholders,html
+"<span colspan=""2"">Current Year with Century: %(year)s</span>
+                                <span colspan=""2"">Current Year without Century: %(y)s</span>
+                                <span colspan=""2"">Month: %(month)s</span>
+                                <span colspan=""2"">Day: %(day)s</span>","<span colspan=""2"">Тековна година со век: %(year)s</span> <span colspan=""2"">Тековна година без век: %(y)s</span> <span colspan=""2"">Месец: %(month)s</span> <span colspan=""2"">Ден: %(day)s</span>","%(year)s, %(y)s, %(month)s, %(day)s","<span colspan=""2"">, </span>, <span colspan=""2"">, </span>, <span colspan=""2"">, </span>, <span colspan=""2"">, </span>"
+"<span colspan=""2"">Day of the Year: %(doy)s</span>
+                                <span colspan=""2"">Week of the Year: %(woy)s</span>
+                                <span colspan=""2"">Day of the Week (0:Monday): %(weekday)s</span>","<span colspan=""2"">Ден од годината: %(doy)s</span> <span colspan=""2"">Недела од годината: %(woy)s</span> <span colspan=""2"">Ден од неделата (0:Понеделник): %(weekday)s</span>","%(doy)s, %(woy)s, %(weekday)s","<span colspan=""2"">, </span>, <span colspan=""2"">, </span>, <span colspan=""2"">, </span>"
+"<span colspan=""2"">Hour 00-&gt;24: %(h24)s</span>
+                                <span colspan=""2"">Hour 00-&gt;12: %(h12)s</span>
+                                <span colspan=""2"">Minute: %(min)s</span>
+                                <span colspan=""2"">Second: %(sec)s</span>","<span colspan=""2"">Час 00->24: %(h24)s</span> <span colspan=""2"">Час 00->12: %(h12)s</span>
+                                <span colspan=""2"">Минута: %(min)s</span> <span colspan=""2"">Секунда: %(sec)s</span>","%(h24)s, %(h12)s, %(min)s, %(sec)s","<span colspan=""2"">, </span>, <span colspan=""2"">, </span>, <span colspan=""2"">, </span>, <span colspan=""2"">, </span>"
+"A <graph> can only contains <field> nodes, found a <%s>","A <graph> може да содржи само <field> јазли, пронајдени во <%s>",%s,"<graph>, <field>, <%s>"
+Element <attribute> with 'add' or 'remove' cannot contain text %s,Елемент <attribute> со 'add' или 'remove' не може да содржи текст %s,%s,<attribute>
+Invalid attributes %s in element <attribute>,Невалидни атрибути %s во елемент <attribute>,%s,<attribute>
+"The root node of a %(view_type)s view should be a <%(view_type)s>, not a <%(tag)s>","Коренот на %(view_type)s видот треба да биде <%(view_type)s>, а не <%(tag)s>","%(view_type)s, %(view_type)s, %(tag)s","<%(view_type)s>, <%(tag)s>"

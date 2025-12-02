@@ -1,0 +1,15 @@
+{
+  "statistics": {
+    "total_entries": 6080,
+    "translated": 5977,
+    "with_placeholders": 230,
+    "with_html": 117,
+    "with_both": 7,
+    "placeholder_errors": 0,
+    "html_errors": 1
+  },
+  "error_count": {
+    "placeholder_errors": 0,
+    "html_errors": 1
+  }
+}

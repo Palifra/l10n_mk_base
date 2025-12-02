@@ -1,0 +1,332 @@
+msgid,msgstr,placeholders_original,placeholders_translation
+"
+
+This seems to be a multi-company issue, you might be able to access the record by switching to the company: %s.","
+
+Ова изгледа како проблем што вклучува повеќе компании, можеби ќе можете да пристапите до записот со префрлување на компанијата: %s.",%s,%s
+"
+User: %(user)s
+Fields:
+%(fields_list)s","
+Корисник: %(user)s Полиња: %(fields_list)s","%(user)s, %(fields_list)s","%(user)s, %(fields_list)s"
+"""group_by"" value must be a string %(attribute)s=“%(value)s”","Вредноста на ""group_by"" мора да биде стринг %(attribute)s=""%(value)s""","%(attribute)s, %(value)s","%(attribute)s, %(value)s"
+%(action_name)s is not a valid action on %(model_name)s,%(action_name)s не е валидна акција на %(model_name)s,"%(action_name)s, %(model_name)s","%(action_name)s, %(model_name)s"
+%(company_currency_name)s per %(rate_currency_name)s,%(company_currency_name)s по %(rate_currency_name)s,"%(company_currency_name)s, %(rate_currency_name)s","%(company_currency_name)s, %(rate_currency_name)s"
+%(integral_amount)s %(currency_unit)s,%(integral_amount)s %(currency_unit)s,"%(integral_amount)s, %(currency_unit)s","%(integral_amount)s, %(currency_unit)s"
+%(integral_amount)s %(currency_unit)s and %(fractional_amount)s %(currency_subunit)s,%(integral_amount)s %(currency_unit)s и %(fractional_amount)s %(currency_subunit)s,"%(integral_amount)s, %(currency_unit)s, %(fractional_amount)s, %(currency_subunit)s","%(integral_amount)s, %(currency_unit)s, %(fractional_amount)s, %(currency_subunit)s"
+%(method)s on %(model)s is private and cannot be called from a button,%(method)s на %(model)s е приватен и не може да се повика од копче,"%(method)s, %(model)s","%(method)s, %(model)s"
+"%(previous_message)s
+
+Implicitly accessed through '%(document_kind)s' (%(document_model)s).",%(previous_message)s Имплицитно се пристапува преку '%(document_kind)s' (%(document_model)s).,"%(previous_message)s, %(document_kind)s, %(document_model)s","%(previous_message)s, %(document_kind)s, %(document_model)s"
+%(rate_currency_name)s per %(company_currency_name)s,%(rate_currency_name)s по %(company_currency_name)s,"%(rate_currency_name)s, %(company_currency_name)s","%(rate_currency_name)s, %(company_currency_name)s"
+"%(xmlid)s is of type %(xmlid_model)s, expected a subclass of ir.actions.actions","%(xmlid)s е од типот %(xmlid_model)s, се очекува подкласа на ir.actions.actions","%(xmlid)s, %(xmlid_model)s","%(xmlid)s, %(xmlid_model)s"
+"%d - Day of the month [01,31].""","%d - Ден од месецот [01,31].""",%d,%d
+%s (Dedicated Outgoing Mail Server):,%s (посветен сервер за испраќање пошта):,%s,%s
+%s (copy),%s (копија),%s,%s
+%s per Unit,%s по единица,%s,%s
+"'%(value)s' does not seem to be a valid Property value for field '%%(field)s'. Each property need at least 'name', 'type' and 'string' attribute.","'%(value)s' не изгледа да е валидна вредност за својството '%%(field)s'. Секое својство треба да има најмалку атрибутите 'name', 'type' и 'string'.","%(value)s, %(field)s","%(value)s, %(field)s"
+'%(value)s' does not seem to be a valid Selection value for '%(label_property)s' (subfield of '%%(field)s' field).,'%(value)s' не изгледа да е валидна вредност за '%(label_property)s' (подполе на полето '%%(field)s').,"%(value)s, %(label_property)s, %(field)s","%(value)s, %(label_property)s, %(field)s"
+'%(value)s' does not seem to be a valid Tag value for '%(label_property)s' (subfield of '%%(field)s' field).,'%(value)s' не изгледа да е валидна вредност за '%(label_property)s' (подполе на полето '%%(field)s').,"%(value)s, %(label_property)s, %(field)s","%(value)s, %(label_property)s, %(field)s"
+'%(value)s' does not seem to be an float for field '%(label_property)s' property (subfield of '%%(field)s' field).,'%(value)s' не изгледа да е float за својството на полето '%(label_property)s' (подполе на полето '%%(field)s').,"%(value)s, %(label_property)s, %(field)s","%(value)s, %(label_property)s, %(field)s"
+'%(value)s' does not seem to be an integer for field '%(label_property)s' property (subfield of '%%(field)s' field).,'%(value)s' не изгледа да е цел број за својството на полето '%(label_property)s' (подполе на полето '%%(field)s').,"%(value)s, %(label_property)s, %(field)s","%(value)s, %(label_property)s, %(field)s"
+'%s' does not seem to be a number for field '%%(field)s','%s' не изгледа како број за полето '%%(field)s',"%s, %(field)s","%s, %(field)s"
+'%s' does not seem to be a valid JSON for field '%%(field)s','%s' не изгледа како валиден JSON за поле '%%(field)s',"%s, %(field)s","%s, %(field)s"
+'%s' does not seem to be a valid date for field '%%(field)s','%s' не изгледа како валидна дата за поле '%%(field)s',"%s, %(field)s","%s, %(field)s"
+'%s' does not seem to be a valid datetime for field '%%(field)s','%s' не изгледа како валиден датум и време за полето '%%(field)s',"%s, %(field)s","%s, %(field)s"
+'%s' does not seem to be an integer for field '%%(field)s','%s' не изгледа да е цел број за поле '%%(field)s',"%s, %(field)s","%s, %(field)s"
+"(Record: %(record)s, User: %(user)s)","(Запис: %(record)s, Корисник: %(user)s)","%(record)s, %(user)s","%(record)s, %(user)s"
+- %(description)s (%(model)s),- %(description)s (%(model)s),"%(description)s, %(model)s","%(description)s, %(model)s"
+- Only a root company can be set on “%(record)s”. Currently set to “%(company)s”,"- Само матична компанија може да се постави на ""%(record)s"". Во моментов е поставено на ""%(company)s""","%(record)s, %(company)s","%(record)s, %(company)s"
+- Record is company “%(company)s” and “%(field)s” (%(fname)s: %(values)s) belongs to another company.,"- Записот е на компанијата ""%(company)s"" и ""%(field)s"" (%(fname)s: %(values)s) припаѓа на друга компанија.","%(company)s, %(field)s, %(fname)s, %(values)s","%(company)s, %(field)s, %(fname)s, %(values)s"
+- element “%(node)s” is shown in the view for groups: %(groups)s,"- елементот ""%(node)s"" се прикажува во прегледот за групи: %(groups)s","%(node)s, %(groups)s","%(node)s, %(groups)s"
+- field “%(name)s” does not exist in model “%(model)s”.,"- полето ""%(name)s"" не постои во моделот ""%(model)s"".","%(name)s, %(model)s","%(name)s, %(model)s"
+- field “%(name)s” is accessible for groups: %(field_groups)s,"- полето ""%(name)s"" е достапно за групи: %(field_groups)s","%(name)s, %(field_groups)s","%(name)s, %(field_groups)s"
+- “%(record)s” belongs to company “%(company)s” and “%(field)s” (%(fname)s: %(values)s) belongs to another company.,"- ""%(record)s"" припаѓа на компанијата ""%(company)s"" и ""%(field)s"" (%(fname)s: %(values)s) припаѓа на друга компанија.","%(record)s, %(company)s, %(field)s, %(fname)s, %(values)s","%(record)s, %(company)s, %(field)s, %(fname)s, %(values)s"
+"4. %d, %m         ==&gt; 05, 12","4. %d, %m ==> 05, 12",%d,%d
+"<span colspan=""2"">Current Year with Century: %(year)s</span>
+                                <span colspan=""2"">Current Year without Century: %(y)s</span>
+                                <span colspan=""2"">Month: %(month)s</span>
+                                <span colspan=""2"">Day: %(day)s</span>","<span colspan=""2"">Тековна година со век: %(year)s</span> <span colspan=""2"">Тековна година без век: %(y)s</span> <span colspan=""2"">Месец: %(month)s</span> <span colspan=""2"">Ден: %(day)s</span>","%(year)s, %(y)s, %(month)s, %(day)s","%(year)s, %(y)s, %(month)s, %(day)s"
+"<span colspan=""2"">Day of the Year: %(doy)s</span>
+                                <span colspan=""2"">Week of the Year: %(woy)s</span>
+                                <span colspan=""2"">Day of the Week (0:Monday): %(weekday)s</span>","<span colspan=""2"">Ден од годината: %(doy)s</span> <span colspan=""2"">Недела од годината: %(woy)s</span> <span colspan=""2"">Ден од неделата (0:Понеделник): %(weekday)s</span>","%(doy)s, %(woy)s, %(weekday)s","%(doy)s, %(woy)s, %(weekday)s"
+"<span colspan=""2"">Hour 00-&gt;24: %(h24)s</span>
+                                <span colspan=""2"">Hour 00-&gt;12: %(h12)s</span>
+                                <span colspan=""2"">Minute: %(min)s</span>
+                                <span colspan=""2"">Second: %(sec)s</span>","<span colspan=""2"">Час 00->24: %(h24)s</span> <span colspan=""2"">Час 00->12: %(h12)s</span>
+                                <span colspan=""2"">Минута: %(min)s</span> <span colspan=""2"">Секунда: %(sec)s</span>","%(h24)s, %(h12)s, %(min)s, %(sec)s","%(h24)s, %(h12)s, %(min)s, %(sec)s"
+"A <graph> can only contains <field> nodes, found a <%s>","A <graph> може да содржи само <field> јазли, пронајдени во <%s>",%s,%s
+ASCII characters are required for %(value)s in %(field)s,ASCII-знаци се потребни за %(value)s во %(field)s,"%(value)s, %(field)s","%(value)s, %(field)s"
+Action %(action_reference)s (id: %(action_id)s) does not exist for button of type action.,Action %(action_reference)s (id: %(action_id)s) не постои за копче од типот action.,"%(action_reference)s, %(action_id)s","%(action_reference)s, %(action_id)s"
+"Ambiguous specification for field '%(field)s', only provide one of name, external id or database id","Двосмислена спецификација за полето '%(field)s', наведете само еден од име, надворешен ИД или ИД на базата на податоци",%(field)s,%(field)s
+"An SMTP exception occurred. Check port number and connection security type.
+ %s",Се случи SMTP исклучок. Проверете го бројот на портата и типот на безбедност на врската. %s,%s,%s
+"An SSL exception occurred. Check connection security type.
+ %s",Се појави SSL исклучок. Проверете го типот на безбедност на врската. %s,%s,%s
+"An option is not supported by the server:
+ %s",Опцијата не е поддржана од серверот: %s,%s,%s
+Bad file format: %s,Погрешен формат на датотека: %s,%s,%s
+Barcode %s,Баркод %s,%s,%s
+"Blame the following rules:
+%s",Обвинете ги следниве правила: %s,%s,%s
+Cannot aggregate on %s parameter,Не може да се агрегира на параметарот %s,%s,%s
+Cannot create new '%s' records from their name alone. Please create those records manually and try importing again.,"Не може да се креираат нови записи ""%s"" само по нивното име. Ве молиме креирајте ги тие записи рачно и обидете се повторно да увезете.",%s,%s
+Cannot groupby on %s parameter,Не може да се групира по параметарот %s,%s,%s
+"Cannot rename/delete fields that are still present in views:
+Fields: %(fields)s
+View: %(view)s",Не може да се преименуваат/избришат полиња што сè уште се присутни во прегледите: Полиња: %(fields)s Преглед: %(view)s,"%(fields)s, %(view)s","%(fields)s, %(view)s"
+Cannot upgrade module “%s”. It is not installed.,"Не може да се надгради модулот ""%s"". Не е инсталиран.",%s,%s
+Company %(company_name)s is not in the allowed companies for user %(user_name)s (%(company_allowed)s).,Компанијата %(company_name)s не е меѓу дозволените компании за корисникот %(user_name)s (%(company_allowed)s).,"%(company_name)s, %(user_name)s, %(company_allowed)s","%(company_name)s, %(user_name)s, %(company_allowed)s"
+"Connection Test Failed! Here is what we got instead:
+ %s",Тестот за поврзување не успеа! Еве што добивме наместо тоа: %s,%s,%s
+"Could not load your certificate / private key. 
+%s",Не може да се вчита вашиот сертификат / приватен клуч. %s,%s,%s
+Cron job %(name)s (%(id)s) has been deactivated after failing %(count)s times. More information can be found in the server logs around %(time)s.,Крон-работата %(name)s (%(id)s) е деактивирана откако не успеа %(count)s пати. Повеќе информации може да најдете во серверските логови околу %(time)s.,"%(name)s, %(id)s, %(count)s, %(time)s","%(name)s, %(id)s, %(count)s, %(time)s"
+"Disabling this option will also uninstall the following modules 
+%s",Оневозможувањето на оваа опција исто така ќе ги деинсталира следниве модули %s,%s,%s
+"Display format to use for addresses belonging to this country.
+
+You can use python-style string pattern with all the fields of the address (for example, use '%(street)s' to display the field 'street') plus
+%(state_name)s: the name of the state
+%(state_code)s: the code of the state
+%(country_name)s: the name of the country
+%(country_code)s: the code of the country","Формат за прикажување што ќе се користи за адреси што припаѓаат на оваа земја. Можете да користите Python-стилски шаблон за стринг со сите полиња од адресата (на пример, користете '%(street)s' за да го прикажете полето 'улица') плус
+%(state_name)s: името на државата %(state_code)s: кодот на државата %(country_name)s: името на земјата %(country_code)s: кодот на земјата","%(street)s, %(state_name)s, %(state_code)s, %(country_name)s, %(country_code)s","%(street)s, %(state_name)s, %(state_code)s, %(country_name)s, %(country_code)s"
+"Domain on non-relational field ""%(name)s"" makes no sense (domain:%(domain)s)","Домен на нерелационално поле ""%(name)s"" нема смисла (домен:%(domain)s)","%(name)s, %(domain)s","%(name)s, %(domain)s"
+Element '%s' cannot be located in parent view,Елемент '%s' не може да се најде во родителскиот приказ,%s,%s
+Element <attribute> with 'add' or 'remove' cannot contain text %s,Елемент <attribute> со 'add' или 'remove' не може да содржи текст %s,%s,%s
+Element “%s” cannot be located in parent view,"Елементот ""%s"" не може да се најде во родителскиот приказ.",%s,%s
+Email maximum size updated (%(details)s).,Максималната големина на е-пошта е ажурирана (%(details)s).,%(details)s,%(details)s
+Empty dependency in “%s”,"Празна зависност во ""%s""",%s,%s
+"Error while parsing or validating view:
+
+%(error)s",Грешка при парсирање или валидација на приказот: %(error)s,%(error)s,%(error)s
+"Error while parsing view:
+
+%s",Грешка при парсирање на приказот: %s,%s,%s
+"Error while validating view (%(view)s):
+
+%(error)s",Грешка при валидирање на приказот (%(view)s): %(error)s,"%(view)s, %(error)s","%(view)s, %(error)s"
+"Error while validating view near:
+
+%(fivelines)s
+%(error)s",Грешка при валидирање на приказот во близина на: %(fivelines)s %(error)s,"%(fivelines)s, %(error)s","%(fivelines)s, %(error)s"
+"Field ""%(field_name)s"" does not exist in model ""%(model_name)s""","Полето ""%(field_name)s"" не постои во моделот ""%(model_name)s""","%(field_name)s, %(model_name)s","%(field_name)s, %(model_name)s"
+"Field ""%s"" is not cached","Полето ""%s"" не е кеширано",%s,%s
+Field '%(field)s' found in 'groupby' node does not exist in model %(model)s,Поле '%(field)s' пронајдено во јазолот 'groupby' не постои во моделот %(model)s,"%(field)s, %(model)s","%(field)s, %(model)s"
+"Field '%(name)s' found in 'groupby' node can only be of type many2one, found %(type)s","Полето '%(name)s' пронајдено во јазолот 'groupby' може да биде само од типот many2one, пронајдено %(type)s","%(name)s, %(type)s","%(name)s, %(type)s"
+Field `%(name)s` does not exist,Поле `%(name)s` не постои,%(name)s,%(name)s
+Field “%(name)s” used in %(use)s is present in view but is in select multi.,"Полето ""%(name)s"", користено во %(use)s, е присутно во прегледот, но е во multi-select.","%(name)s, %(use)s","%(name)s, %(use)s"
+Fields %s contain a non-str value/label in selection,Полињата %s содржат вредност/етикета што не е стринг при избор,%s,%s
+"File ""%(file_name)s"" not imported due to format mismatch or a malformed file. (Valid formats are .csv, .po)
+
+Technical Details:
+%(error_message)s","Датотека ""%(file_name)s"" не е увезена поради несоодветен формат или неисправна датотека. (Важечки формати се .csv, .po) Технички детали: %(error_message)s","%(file_name)s, %(error_message)s","%(file_name)s, %(error_message)s"
+Forbidden attribute used in arch (%s).,Забранет атрибут користен во архива (%s).,%s,%s
+Forbidden owl directive used in arch (%s).,Забранета директива за бувот користена во архива (%s).,%s,%s
+"Found multiple matches for value ""%(value)s"" in field ""%%(field)s"" (%(match_count)s matches)","Пронајдени се повеќе совпаѓања за вредноста ""%(value)s"" во полето ""%%(field)s"" (%(match_count)s совпаѓања)","%(value)s, %(field)s, %(match_count)s","%(value)s, %(field)s, %(match_count)s"
+"Group-restricted fields cannot be included in webhook payloads, as it could allow any user to accidentally leak sensitive information. You will have to remove the following fields from the webhook payload in the following actions:
+ %s","Полиња ограничени по група не можат да се вклучат во вебхук-потплати, бидејќи тоа би можело да му овозможи на кој било корисник случајно да протече чувствителни информации. Ќе треба да ги отстраните следниве полиња од вебхук-потплатот во следниве акции: %s",%s,%s
+I'm sorry to say that JSON fields (such as %s) are currently not supported.,Жал ми е што морам да кажам дека JSON-полињата (како што е %s) во моментов не се поддржани.,%s,%s
+"Insufficient fields to generate a Calendar View for %s, missing a date_stop or a date_delay","Недостаток на полиња за генерирање на календарски приказ за %s, недостасува date_stop или date_delay",%s,%s
+"Invalid ""order"" specified (%s). A valid ""order"" specification is a comma-separated list of valid field names (optionally followed by asc/desc for the direction)","Невалиден ""order"" е наведен (%s). Валидна спецификација за ""order"" е листа на валидни имиња на полиња, одделени со запирка (опционално проследена со asc/desc за насока).",%s,%s
+"Invalid %(use)s: “%(expr)s”
+%(error)s","Невалиден %(use)s: ""%(expr)s"" %(error)s","%(use)s, %(expr)s, %(error)s","%(use)s, %(expr)s, %(error)s"
+Invalid Expression while parsing xpath “%s”,"Невалиден израз при парсирање на XPath ""%s""",%s,%s
+Invalid attributes %s in element <attribute>,Невалидни атрибути %s во елемент <attribute>,%s,%s
+Invalid composed field %(definition)s in %(use)s,Невалидно составено поле %(definition)s во %(use)s,"%(definition)s, %(use)s","%(definition)s, %(use)s"
+"Invalid context: “%(expr)s” is not a valid Python expression 
+
+ %(error)s","Невалиден контекст: ""%(expr)s"" не е валиден Python израз ""%(error)s""","%(expr)s, %(error)s","%(expr)s, %(error)s"
+Invalid database id '%s' for the field '%%(field)s',Невалиден идентификатор на базата на податоци '%s' за полето '%%(field)s',"%s, %(field)s","%s, %(field)s"
+Invalid default period %(default_period)s for date filter,Невалиден стандарден период %(default_period)s за филтерот за датум,%(default_period)s,%(default_period)s
+Invalid domain: %s,Невалидна доменска адреса: %s,%s,%s
+Invalid field %(model)s.%(field)s,Невалидно поле %(model)s.%(field)s,"%(model)s, %(field)s","%(model)s, %(field)s"
+"Invalid inherit mode. Module ""%(module)s"" and template name ""%(template_name)s""","Невалиден режим на наследување. Модул ""%(module)s"" и име на шаблонот ""%(template_name)s""","%(module)s, %(template_name)s","%(module)s, %(template_name)s"
+Invalid mode attribute: “%s”,"Невалиден атрибут на режимот: ""%s""",%s,%s
+Invalid model name “%s” in action definition.,"Невалидно име на моделот ""%s"" во дефиницијата на акцијата.",%s,%s
+Invalid position attribute: '%s',Невалиден атрибут на позиција: '%s',%s,%s
+Invalid prefix or suffix for sequence “%s”,"Невалиден префикс или суфикс за низата ""%s""",%s,%s
+Invalid separator %(separator)s for python expression %(expression)s; valid values are 'and' and 'or',Невалиден раздвојувач %(separator)s за python израз %(expression)s; валидни вредности се 'and' и 'or',"%(separator)s, %(expression)s","%(separator)s, %(expression)s"
+"Invalid server name!
+ %s",Невалидно име на сервер! %s,%s,%s
+Invalid special '%(value)s' in button,Невалидна специјална ознака '%(value)s' во копчето,%(value)s,%(value)s
+Invalid specification for moved nodes: “%s”,"Невалидна спецификација за преместени јазли: ""%s""",%s,%s
+Invalid value for %(model)s.%(field)s: %(value)s,Невалидна вредност за %(model)s.%(field)s: %(value)s,"%(model)s, %(field)s, %(value)s","%(model)s, %(field)s, %(value)s"
+"Invalid value for %(model)s.%(field)s: %(value)s is out of bounds (integers should be between -2,147,483,648 and 2,147,483,647)","Невалидна вредност за %(model)s.%(field)s: %(value)s е надвор од границите (целоброените вредности треба да бидат помеѓу -2,147,483,648 и 2,147,483,647)","%(model)s, %(field)s, %(value)s","%(model)s, %(field)s, %(value)s"
+Invalid view %(name)s definition in %(file)s,Невалидна дефиниција на view %(name)s во %(file)s,"%(name)s, %(file)s","%(name)s, %(file)s"
+Invalid xmlid %(xmlid)s for button of type action.,Невалиден xmlid %(xmlid)s за копче од типот action.,%(xmlid)s,%(xmlid)s
+List child can only have one of %(tags)s tag (not %(wrong_tag)s),Листата со деца може да има само една ознака %(tags)s (не %(wrong_tag)s),"%(tags)s, %(wrong_tag)s","%(tags)s, %(wrong_tag)s"
+"Mail delivery failed via SMTP server '%(server)s'.
+%(exception_name)s: %(message)s",Доставата на пошта преку SMTP серверот '%(server)s' не успеа. %(exception_name)s: %(message)s,"%(server)s, %(exception_name)s, %(message)s","%(server)s, %(exception_name)s, %(message)s"
+Many2one %(field)s on model %(model)s does not exist!,Many2one %(field)s на моделот %(model)s не постои!,"%(field)s, %(model)s","%(field)s, %(model)s"
+Missing required value for the field '%(name)s' (%(technical_name)s),Недостасува задолжителна вредност за полето '%(name)s' (%(technical_name)s),"%(name)s, %(technical_name)s","%(name)s, %(technical_name)s"
+Missing required value for the field '%(name)s' on a linked model [%(linked_model)s],Фали вредност потребна за полето '%(name)s' на поврзан модел [%(linked_model)s],"%(name)s, %(linked_model)s","%(name)s, %(linked_model)s"
+Model %s does not exist,Моделот %s не постои,%s,%s
+Model %s does not exist!,Моделот %s не постои!,%s,%s
+Model not found: %(model)s,Модел не е пронајден: %(model)s,%(model)s,%(model)s
+Model “%s” contains module data and cannot be removed.,"Моделот ""%s"" содржи податоци за модулот и не може да се отстрани.",%s,%s
+"Module loading %(module)s failed: file %(file)s could not be processed:
+%(message)s",Вчитавање на модулот %(module)s не успеа: датотеката %(file)s не можеше да се обработи: %(message)s,"%(module)s, %(file)s, %(message)s","%(module)s, %(file)s, %(message)s"
+"Modules ""%(module)s"" and ""%(incompatible_module)s"" are incompatible.","Модулите ""%(module)s"" и ""%(incompatible_module)s"" се некомпатибилни.","%(module)s, %(incompatible_module)s","%(module)s, %(incompatible_module)s"
+Name or id “%(name_or_id)s” in %(use)s does not exist.,"Името или идентификаторот ""%(name_or_id)s"" во %(use)s не постои.","%(name_or_id)s, %(use)s","%(name_or_id)s, %(use)s"
+Name or id “%(name_or_id)s” in %(use)s must be present in view but is missing.,"Името или идентификаторот ""%(name_or_id)s"" во %(use)s мора да биде присутен во приказот, но недостасува.","%(name_or_id)s, %(use)s","%(name_or_id)s, %(use)s"
+No default view of type '%s' could be found!,Не може да се најде стандарден приказ од типот '%s'!,%s,%s
+No matching record found for %(field_type)s '%(value)s' in field '%%(field)s',Не е пронајден соодветен запис за %(field_type)s '%(value)s' во полето '%%(field)s',"%(field_type)s, %(value)s, %(field)s","%(field_type)s, %(value)s, %(field)s"
+No matching record found for %(field_type)s '%(value)s' in field '%%(field)s' and the following error was encountered when we attempted to create one: %(error_message)s,Не е пронајден никаков соодветен запис за %(field_type)s '%(value)s' во полето '%%(field)s' и при обидот да се создаде запис се појави следнава грешка: %(error_message)s,"%(field_type)s, %(value)s, %(field)s, %(error_message)s","%(field_type)s, %(value)s, %(field)s, %(error_message)s"
+"No response received. Check server address and port number.
+ %s",Не е добиен одговор. Проверете ја адресата на серверот и бројот на портата. %s,%s,%s
+No spaces allowed in view_mode: “%s”,"Не се дозволени празнини во view_mode: ""%s""",%s,%s
+"Non-relational field name ""%(field_name)s"" in related field ""%(related_field)s""","Не-релационално поле ""%(field_name)s"" во поврзано поле ""%(related_field)s""","%(field_name)s, %(related_field)s","%(field_name)s, %(related_field)s"
+Non-relational field “%(field)s” in dependency “%(dependency)s”,"Не-релационално поле ""%(field)s"" во зависност ""%(dependency)s""","%(field)s, %(dependency)s","%(field)s, %(dependency)s"
+Non-relational field “%(field)s” in path “%(field_path)s” in %(use)s),"Не-релационално поле ""%(field)s"" во патека ""%(field_path)s"" во %(use)s)","%(field)s, %(field_path)s, %(use)s","%(field)s, %(field_path)s, %(use)s"
+"Not enough access rights on the external ID ""%(module)s.%(xml_id)s""","Недостаток на права за пристап до надворешниот ИД ""%(module)s.%(xml_id)s""","%(module)s, %(xml_id)s","%(module)s, %(xml_id)s"
+Object %s doesn't exist,Објектот %s не постои,%s,%s
+Odoo is unable to merge the generated PDFs because of %(num_errors)s corrupted file(s),Odoo не може да ги спои генерираните PDF-датотеки поради %(num_errors)s оштетени датотеки,%(num_errors)s,%(num_errors)s
+Only the portal users can delete their accounts. The user(s) %s can not be deleted.,Само корисниците на порталот можат да ги избришат своите сметки. Корисникот(ите) %s не може да се избрише.,%s,%s
+Partners: %(category)s,Партнери: %(category)s,%(category)s,%(category)s
+Private methods (such as %s) cannot be called remotely.,Приватните методи (како што е %s) не можат да се повикуваат оддалечено.,%s,%s
+"Related field ""%(related_field)s"" does not have comodel ""%(comodel)s""","Поврзаното поле ""%(related_field)s"" нема комодел ""%(comodel)s""","%(related_field)s, %(comodel)s","%(related_field)s, %(comodel)s"
+"Related field ""%(related_field)s"" does not have type ""%(type)s""","Поврзаното поле ""%(related_field)s"" нема тип ""%(type)s""","%(related_field)s, %(type)s","%(related_field)s, %(type)s"
+"Report template “%s” has an issue, please contact your administrator. 
+
+Cannot separate file to save as attachment because the report's template does not contain the attributes 'data-oe-model' and 'data-oe-id' as part of the div with 'article' classname.","Шаблонот за извештај ""%s"" има проблем, ве молиме контактирајте го вашиот администратор. Не може да се подели датотека за зачувување како прилог бидејќи шаблонот на извештајот не ги содржи атрибутите 'data-oe-model' и 'data-oe-id' како дел од div-от со класа 'article'.",%s,%s
+SSL certificate is missing for %s.,SSL сертификатот недостасува за %s.,%s,%s
+SSL private key is missing for %s.,SSL приватниот клуч недостасува за %s.,%s,%s
+"Server replied with following exception:
+ %s",Серверот одговори со следната грешка: %s,%s,%s
+"Since %(user)s is a/an ""%(category)s: %(group)s"", they will at least obtain the right %(missing_group_message)s","Бидејќи %(user)s е ""%(category)s: %(group)s"", тие барем ќе го добијат вистинскиот %(missing_group_message)s","%(user)s, %(category)s, %(group)s, %(missing_group_message)s","%(user)s, %(category)s, %(group)s, %(missing_group_message)s"
+"Since 17.0, the ""attrs"" and ""states"" attributes are no longer used.
+View: %(name)s in %(file)s","Од верзија 17.0, атрибутите ""attrs"" и ""states"" повеќе не се користат. Приказ: %(name)s во %(file)s","%(name)s, %(file)s","%(name)s, %(file)s"
+"Skipping a company check for model %(model_name)s. Its fields %(field_names)s are set as company-dependent, but the model doesn't have a `company_id` or `company_ids` field!","Прескокнување на компаниски чек за моделот %(model_name)s. Неговите полиња %(field_names)s се поставени како зависни од компанијата, но моделот нема поле `company_id` или `company_ids`!","%(model_name)s, %(field_names)s","%(model_name)s, %(field_names)s"
+"The ""%s"" action cannot be selected as home action.","Акцијата ""%s"" не може да се избере како почетна акција.",%s,%s
+"The ""editable"" attribute of list views must be ""top"" or ""bottom"", received %(value)s","Атрибутот ""editable"" на приказите на листа мора да биде ""top"" или ""bottom"", примени %(value)s",%(value)s,%(value)s
+The %s of a subsidiary must be the same as it's root company.,%s на подружницата мора да биде ист како кај матичната компанија.,%s,%s
+"The action ""%s"" cannot be set as the home action because it requires a record to be selected beforehand.","Акцијата ""%s"" не може да се постави како почетна акција бидејќи бара претходно да се избере запис.",%s,%s
+The company %(company_name)s cannot be archived because it is still used as the default company of %(active_users)s users.,Компанијата %(company_name)s не може да се архивира бидејќи сè уште се користи како стандардна компанија за корисниците на %(active_users)s.,"%(company_name)s, %(active_users)s","%(company_name)s, %(active_users)s"
+The field '%(field)s' cannot be removed because the field '%(other_field)s' depends on it.,Полето '%(field)s' не може да се отстрани бидејќи полето '%(other_field)s' зависи од него.,"%(field)s, %(other_field)s","%(field)s, %(other_field)s"
+"The field value you're saving (%(model)s %(field)s) includes content that is restricted for security reasons. It is possible that someone with higher privileges previously modified it, and you are therefore not able to modify it yourself while preserving the content.","Вредноста на полето што ја зачувувате (%(model)s %(field)s) вклучува содржина што е ограничена поради безбедносни причини. Можно е некој со повисоки привилегии претходно да ја изменил, па затоа не можете сами да ја измените додека ја зачувувате содржината.","%(model)s, %(field)s","%(model)s, %(field)s"
+The following languages are not activated: %(missing_names)s,Следните јазици не се активирани: %(missing_names)s,%(missing_names)s,%(missing_names)s
+The following modules are not installed or unknown: %s,Следните модули не се инсталирани или се непознати: %s,%s,%s
+The group “%(name)s” defined in view does not exist!,"Групата ""%(name)s"" дефинирана во прегледот не постои!",%(name)s,%(name)s
+The language %s is not installed.,Јазикот %s не е инсталиран.,%s,%s
+The m2o field %s is required but declares its ondelete policy as being 'set null'. Only 'restrict' and 'cascade' make sense.,"Полето m2o %s е задолжително, но ја декларира политиката onDelete како 'set null'. Само 'restrict' и 'cascade' имаат смисла.",%s,%s
+The modes in view_mode must not be duplicated: %s,Модовите во view_mode не смеат да се дуплицираат: %s,%s,%s
+"The ondelete policy ""%(policy)s"" is not valid for field ""%(field)s""","Политиката ondelete ""%(policy)s"" не важи за полето ""%(field)s""","%(policy)s, %(field)s","%(policy)s, %(field)s"
+"The operation cannot be completed:
+- Create/update: a mandatory field is not set.
+- Delete: another model requires the record being deleted. If possible, archive it instead.
+
+Model: %(model_name)s (%(model_tech_name)s)
+Field: %(field_name)s (%(field_tech_name)s)
+","Операцијата не може да се заврши: - Создавање/ажурирање: задолжително поле не е пополнето. - Бришење: друг модел бара записот што се брише. Ако е можно, архивирајте го наместо тоа. Модел: %(model_name)s (%(model_tech_name)s) Поле: %(field_name)s (%(field_tech_name)s) ","%(model_name)s, %(model_tech_name)s, %(field_name)s, %(field_tech_name)s","%(model_name)s, %(model_tech_name)s, %(field_name)s, %(field_tech_name)s"
+The operation cannot be completed: %s,Операцијата не може да се заврши: %s,%s,%s
+"The operation cannot be completed: another model requires the record being deleted. If possible, archive it instead.
+
+Model: %(model_name)s (%(model_tech_name)s)
+Constraint: %(constraint)s
+","Операцијата не може да се заврши: друг модел бара записот да се избрише. Ако е можно, архивирајте го наместо тоа. Модел: %(model_name)s (%(model_tech_name)s) Ограничување: %(constraint)s ","%(model_name)s, %(model_tech_name)s, %(constraint)s","%(model_name)s, %(model_tech_name)s, %(constraint)s"
+The path to the field to update contains a non-relational field (%s) that is not the last field in the path. You can't traverse non-relational fields (even in the quantum realm). Make sure only the last field in the path is non-relational.,Патеката до полето за ажурирање содржи нерелационо поле (%s) кое не е последното поле во патеката. Не можете да ги прелистувате нерелационите полиња (дури ни во квантната област). Осигурајте се дека само последното поле во патеката е нерелационо.,%s,%s
+"The precision has been reduced for %s.
+Note that existing data WON'T be updated by this change.
+
+As decimal precisions impact the whole system, this may cause critical issues.
+E.g. reducing the precision could disturb your financial balance.
+
+Therefore, changing decimal precisions in a running database is not recommended.","Прецизноста е намалена за %s. Имајте предвид дека постоечките податоци нема да бидат ажурирани со оваа промена. Бидејќи децималните прецизности влијаат на целиот систем, ова може да предизвика критични проблеми. На пример, намалувањето на прецизноста може да го наруши вашиот финансиски биланс. Затоа, не се препорачува менување на децималните прецизности во активна база на податоци.",%s,%s
+"The private key or the certificate is not a valid file. 
+%s",Приватниот клуч или сертификатот не е валидна датотека. %s,%s,%s
+"The record %(xml_id)s has the module prefix %(module_name)s. This is the part before the '.' in the external id. Because the prefix refers to an existing module, the record would be deleted when the module is upgraded. Use either no prefix and no dot or a prefix that isn't an existing module. For example, __import__, resulting in the external id __import__.%(record_id)s.","Записот %(xml_id)s го има модуларниот префикс %(module_name)s. Ова е делот пред ""."" во надворешниот идентификатор. Бидејќи префиксот се однесува на постоечки модул, записот ќе биде избришан кога модулот ќе се надгради. Користете или без префикс и без точка, или префикс што не е постоечки модул. На пример, __import__, што резултира со надворешен идентификатор __import__.%(record_id)s.","%(xml_id)s, %(module_name)s, %(record_id)s","%(xml_id)s, %(module_name)s, %(record_id)s"
+"The root node of a %(view_type)s view should be a <%(view_type)s>, not a <%(tag)s>","Коренот на %(view_type)s видот треба да биде <%(view_type)s>, а не <%(tag)s>","%(view_type)s, %(view_type)s, %(tag)s","%(view_type)s, %(view_type)s, %(tag)s"
+"The server ""%(server_name)s"" doesn't return the maximum email size.","Серверот ""%(server_name)s"" не ја враќа максималната големина на е-пошта.",%(server_name)s,%(server_name)s
+"The server ""%s"" cannot be used because it is archived.","Серверот ""%s"" не може да се користи бидејќи е архивиран.",%s,%s
+"The server has closed the connection unexpectedly. Check configuration served on this port number.
+ %s",Серверот неочекувано ја затвори врската. Проверете ја конфигурацијата што се служи на овој порт број. %s,%s,%s
+The server refused the sender address (%(email_from)s) with error %(repl)s,Серверот ја одби адресата на испраќачот (%(email_from)s) со грешка %(repl)s,"%(email_from)s, %(repl)s","%(email_from)s, %(repl)s"
+The server refused the test connection with error %(repl)s,Серверот ја одби тест-конекцијата со грешка %(repl)s,%(repl)s,%(repl)s
+The server refused the test recipient (%(email_to)s) with error %(repl)s,Серверот го одби примачот на тестот (%(email_to)s) со грешка %(repl)s,"%(email_to)s, %(repl)s","%(email_to)s, %(repl)s"
+"The table “%s” is used by another, possibly incompatible field(s).","Табелата ""%s"" се користи од друго, можеби некомпатибилно поле.",%s,%s
+The value (%s) passed should be positive,Вредноста (%s) што се пренесува треба да биде позитивна.,%s,%s
+The value for the field '%(field)s' already exists (this is probably '%(other_field)s' in the current model).,Вредноста за полето '%(field)s' веќе постои (ова веројатно е '%(other_field)s' во тековниот модел).,"%(field)s, %(other_field)s","%(field)s, %(other_field)s"
+The values for the fields '%(fields)s' already exist (they are probably '%(other_fields)s' in the current model).,Вредностите за полињата '%(fields)s' веќе постојат (веројатно се '%(other_fields)s' во тековниот модел).,"%(fields)s, %(other_fields)s","%(fields)s, %(other_fields)s"
+"There is already a shared filter set as default for %(model)s, delete or change it before setting a new default","Веќе постои заеднички сет филтри како стандарден за %(model)s, избришете го или променете го пред да поставите нов стандарден.",%(model)s,%(model)s
+"This operation is allowed for the following groups:
+%(groups_list)s",Оваа операција е дозволена за следниве групи: %(groups_list)s,%(groups_list)s,%(groups_list)s
+Those modules cannot be uninstalled: %s,Тие модули не можат да се деинсталираат: %s,%s,%s
+"Too large image (above %sMpx), reduce the image size.","Преголема слика (над %s Мпкс), намалете ја големината на сликата.",%s,%s
+"Uh-oh! Looks like you have stumbled upon some top-secret records.
+
+Sorry, %(user)s doesn't have '%(operation)s' access to:","Уа-оу! Изгледа дека налетавте на некои строго доверливи записи. Жал ми е, %(user)s нема '%(operation)s' пристап до:","%(user)s, %(operation)s","%(user)s, %(operation)s"
+Unable to delete %(record)s because it is used as the default value of %(field)s,Не може да се избрише %(record)s бидејќи се користи како стандардна вредност за %(field)s,"%(record)s, %(field)s","%(record)s, %(field)s"
+"Unable to import'%%(field)s' Properties field as a whole, target individual property instead.","Не може да се увезе полето ""%%(field)s"" Properties како целина, наместо тоа насочете се кон поединечна својство.",%(field)s,%(field)s
+"Unable to install module ""%(module)s"" because an external dependency is not met: %(dependency)s","Не може да се инсталира модулот ""%(module)s"" бидејќи надворешната зависност не е исполнета: %(dependency)s","%(module)s, %(dependency)s","%(module)s, %(dependency)s"
+Unable to order by %s: fields used for ordering must be present on the model and stored.,Не може да се подреди по %s: полињата што се користат за подредување мора да бидат присутни на моделот и зачувани.,%s,%s
+"Unable to process module ""%(module)s"" because an external dependency is not met: %(dependency)s","Не може да се обработи модулот ""%(module)s"" бидејќи надворешна зависност не е исполнета: %(dependency)s","%(module)s, %(dependency)s","%(module)s, %(dependency)s"
+"Unable to upgrade module ""%(module)s"" because an external dependency is not met: %(dependency)s","Не може да се надгради модулот ""%(module)s"" бидејќи надворешната зависност не е исполнета: %(dependency)s","%(module)s, %(dependency)s","%(module)s, %(dependency)s"
+Unit per %s,Единица по %s,%s,%s
+Unknown database error: '%s',Непозната грешка во базата на податоци: '%s',%s,%s
+Unknown database identifier '%s',Непознат идентификатор на база на податоци '%s',%s,%s
+Unknown error during import: %(error_type)s: %(error_message)s,Непозната грешка за време на увоз: %(error_type)s: %(error_message)s,"%(error_type)s, %(error_message)s","%(error_type)s, %(error_message)s"
+"Unknown field ""%(model)s.%(field)s"" in %(use)s)","Непознато поле ""%(model)s.%(field)s"" во %(use)s)","%(model)s, %(field)s, %(use)s","%(model)s, %(field)s, %(use)s"
+"Unknown field name ""%(field_name)s"" in related field ""%(related_field)s""","Непознато име на поле ""%(field_name)s"" во поврзано поле ""%(related_field)s""","%(field_name)s, %(related_field)s","%(field_name)s, %(related_field)s"
+Unknown field specified “%s” in currency_field,"Непознато поле е наведено ""%s"" во currency_field",%s,%s
+"Unknown field “%(field)s” in ""group_by"" value in %(attribute)s=“%(value)s”","Непознато поле ""%(field)s"" во вредноста на ""group_by"" во %(attribute)s=""%(value)s""","%(field)s, %(attribute)s, %(value)s","%(field)s, %(attribute)s, %(value)s"
+Unknown field “%(field)s” in dependency “%(dependency)s”,"Непознато поле ""%(field)s"" во зависност ""%(dependency)s""","%(field)s, %(dependency)s","%(field)s, %(dependency)s"
+Unknown model name '%s' in Related Model,Непознато име на моделот '%s' во поврзаниот модел,%s,%s
+Unknown sub-field “%s”,"Непознато подполе ""%s""",%s,%s
+Unknown value '%(value)s' for boolean '%(label_property)s' property (subfield of '%%(field)s' field).,Непозната вредност '%(value)s' за логичката својство '%(label_property)s' (подполе на полето '%%(field)s').,"%(value)s, %(label_property)s, %(field)s","%(value)s, %(label_property)s, %(field)s"
+Unknown value '%s' for boolean field '%%(field)s',Непозната вредност '%s' за булејско поле '%%(field)s',"%s, %(field)s","%s, %(field)s"
+"Unrecognized extension: must be one of .csv, .po, or .tgz (received .%s).","Непрепознаено наставка: мора да биде една од .csv, .po или .tgz (примено .%s).",%s,%s
+Unsearchable field “%(field)s” in path “%(field_path)s” in %(use)s),"Непребарувачко поле ""%(field)s"" во патека ""%(field_path)s"" во %(use)s)","%(field)s, %(field_path)s, %(use)s","%(field)s, %(field_path)s, %(use)s"
+Use the format '%s',Користете го форматот '%s',%s,%s
+Value '%s' not found in selection field '%%(field)s',Вредноста '%s' не е пронајдена во полето за избор '%%(field)s',"%s, %(field)s","%s, %(field)s"
+View '%(name)s' accessible only to groups %(groups)s ,"Приказ на ""%(name)s"" достапен само за групите %(groups)s ","%(name)s, %(groups)s","%(name)s, %(groups)s"
+View '%(name)s' is private,"Приказот ""%(name)s"" е приватен",%(name)s,%(name)s
+Warning for %s,Предупредување за %s,%s,%s
+"When subsequences per date range are used, you can prefix variables with 'range_'
+                                to use the beginning of the range instead of the current date, e.g. %(range_year)s instead of %(year)s.","Кога се користат поднизки по опсег на датуми, можете да ги префиксирате променливите со ""range_"" за да го користите почетокот на опсегот наместо тековниот датум, на пр. %(range_year)s наместо %(year)s.","%(range_year)s, %(year)s","%(range_year)s, %(year)s"
+Wkhtmltoimage failed (error code: %(error_code)s). Message: %(error_message_end)s,Wkhtmltoimage не успеа (код на грешка: %(error_code)s). Порака: %(error_message_end)s,"%(error_code)s, %(error_message_end)s","%(error_code)s, %(error_message_end)s"
+Wkhtmltopdf failed (error code: %(error_code)s). Memory limit too low or maximum file number of subprocess reached. Message : %(message)s,Wkhtmltopdf не успеа (код на грешка: %(error_code)s). Лимитот на меморија е пренизок или е достигнат максималниот број на датотеки во подпроцесот. Порака: %(message)s,"%(error_code)s, %(message)s","%(error_code)s, %(message)s"
+Wkhtmltopdf failed (error code: %(error_code)s). Message: %(message)s,Wkhtmltopdf не успеа (код на грешка: %(error_code)s). Порака: %(message)s,"%(error_code)s, %(message)s","%(error_code)s, %(message)s"
+"Wow, your webhook call failed with a really unusual error: %s","Леле, повикот на вашиот вебхук не успеа со навистина необична грешка: %s",%s,%s
+You are not allowed to access '%(document_kind)s' (%(document_model)s) records.,Не ви е дозволен пристап до записите '%(document_kind)s' (%(document_model)s).,"%(document_kind)s, %(document_model)s","%(document_kind)s, %(document_model)s"
+You are not allowed to create '%(document_kind)s' (%(document_model)s) records.,Не ви е дозволено да креирате записи '%(document_kind)s' (%(document_model)s).,"%(document_kind)s, %(document_model)s","%(document_kind)s, %(document_model)s"
+You are not allowed to delete '%(document_kind)s' (%(document_model)s) records.,Не ви е дозволено да ги избришете записите '%(document_kind)s' (%(document_model)s).,"%(document_kind)s, %(document_model)s","%(document_kind)s, %(document_model)s"
+You are not allowed to modify '%(document_kind)s' (%(document_model)s) records.,Не ви е дозволено да ги менувате записите '%(document_kind)s' (%(document_model)s).,"%(document_kind)s, %(document_model)s","%(document_kind)s, %(document_model)s"
+"You are trying to install incompatible modules in category ""%(category)s"":%(module_list)s","Се обидувате да инсталирате некомпатибилни модули во категорија ""%(category)s"":%(module_list)s","%(category)s, %(module_list)s","%(category)s, %(module_list)s"
+"You cannot archive contacts linked to an active user.
+Ask an administrator to archive their associated user first.
+
+Linked active users :
+%(names)s",Не можете да архивирате контакти поврзани со активен корисник. Побарајте од администратор прво да го архивира поврзаниот корисник. Поврзани активни корисници: %(names)s,%(names)s,%(names)s
+"You cannot archive contacts linked to an active user.
+You first need to archive their associated user.
+
+Linked active users : %(names)s",Не можете да архивирате контакти поврзани со активен корисник. Прво треба да го архивирате поврзаниот корисник. Поврзани активни корисници: %(names)s,%(names)s,%(names)s
+"You cannot archive these Outgoing Mail Servers (%(server_usage)s) because they are still used in the following case(s):
+%(usage_details)s",Не можете да ги архивирате овие сервери за испраќање пошта (%(server_usage)s) бидејќи тие сè уште се користат во следниве случаи: %(usage_details)s,"%(server_usage)s, %(usage_details)s","%(server_usage)s, %(usage_details)s"
+"You cannot archive this Outgoing Mail Server (%(server_usage)s) because it is still used in the following case(s):
+%(usage_details)s",Не можете да го архивирате овој сервер за испраќање пошта (%(server_usage)s) бидејќи сè уште се користи во следниве случаи: %(usage_details)s,"%(server_usage)s, %(usage_details)s","%(server_usage)s, %(usage_details)s"
+"You cannot delete %(to_delete_record)s, as it is used by %(on_restrict_record)s","Не можете да го избришете %(to_delete_record)s, бидејќи %(on_restrict_record)s го користи.","%(to_delete_record)s, %(on_restrict_record)s","%(to_delete_record)s, %(on_restrict_record)s"
+"You cannot delete contacts linked to an active user.
+Ask an administrator to archive their associated user first.
+
+Linked active users :
+%(names)s",Не можете да ги избришете контактите поврзани со активен корисник. Побарајте од администратор прво да го архивира поврзаниот корисник. Поврзани активни корисници: %(names)s,%(names)s,%(names)s
+"You cannot delete contacts linked to an active user.
+You should rather archive them after archiving their associated user.
+
+Linked active users : %(names)s","Не можете да ги избришете контактите поврзани со активен корисник. Наместо тоа, треба да ги архивирате откако ќе го архивирате поврзаниот корисник. Поврзани активни корисници: %(names)s",%(names)s,%(names)s
+You cannot delete the %s record.,Не можете да го избришете записот %s.,%s,%s
+You cannot exceed %(duration)s days.,Не можете да надминете %(duration)s дена.,%(duration)s,%(duration)s
+You cannot rename config parameters with keys %s,Не можете да ги преименувате конфигурациските параметри со клучеви %s,%s,%s
+You cannot use “%(property_name)s” because the linked “%(model_name)s” model doesn't exist or is invalid,"Не можете да го користите ""%(property_name)s"" бидејќи поврзаниот модел ""%(model_name)s"" не постои или е неважечки.","%(property_name)s, %(model_name)s","%(property_name)s, %(model_name)s"
+"You do not have enough rights to access the fields ""%(fields)s"" on %(document_kind)s (%(document_model)s). Please contact your system administrator.
+
+Operation: %(operation)s","Немате доволно права за пристап до полињата ""%(fields)s"" на %(document_kind)s (%(document_model)s). Ве молиме контактирајте го вашиот систем администратор. Операција: %(operation)s","%(fields)s, %(document_kind)s, %(document_model)s, %(operation)s","%(fields)s, %(document_kind)s, %(document_model)s, %(operation)s"
+"You try to install module ""%(module)s"" that depends on module ""%(dependency)s"".
+But the latter module is not available in your system.","Се обидувате да го инсталирате модулот ""%(module)s"", кој зависи од модулот ""%(dependency)s"". Но, овој модул не е достапен во вашиот систем.","%(module)s, %(dependency)s","%(module)s, %(dependency)s"
+"You try to upgrade the module %(module)s that depends on the module: %(dependency)s.
+But this module is not available in your system.",Се обидувате да го надградите модулот %(module)s кој зависи од модулот %(dependency)s. Но овој модул не е достапен во вашиот систем.,"%(module)s, %(dependency)s","%(module)s, %(dependency)s"
+allowed for groups %s,дозволени групи %s,%s,%s
+“%(attribute)s” value must be an integer (%(value)s),"""%(attribute)s"" вредноста мора да биде цел број (%(value)s)","%(attribute)s, %(value)s","%(attribute)s, %(value)s"

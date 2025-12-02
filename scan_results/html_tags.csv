@@ -1,0 +1,186 @@
+msgid,msgstr,html_original,html_translation
+<code>Command</code>: x2many commands namespace,<code>Команда</code>: x2many команди именски простор,"<code>, </code>","<code>, </code>"
+<code>UserError</code>: exception class for raising user-facing warning messages,<code>UserError</code>: класа на исклучоци за прикажување предупредувачки пораки до корисникот,"<code>, </code>","<code>, </code>"
+<code>_logger.info(message)</code>: logger to emit messages in server logs,<code>_logger.info(message)</code>: логер за емитување пораки во серверските логови,"<code>, </code>","<code>, </code>"
+<code>datetime</code> (Python module),<code>datetime</code> (Python модул),"<code>, </code>","<code>, </code>"
+<code>dateutil</code> (Python module),<code>dateutil</code> (Python модул),"<code>, </code>","<code>, </code>"
+<code>env</code>: environment on which the action is triggered,<code>env</code>: околина на која се активира акцијата,"<code>, </code>","<code>, </code>"
+<code>float_compare()</code>: utility function to compare floats based on a specific precision,<code>float_compare()</code>: помошна функција за споредба на пловечки броеви врз основа на специфична прецизност,"<code>, </code>","<code>, </code>"
+"<code>log(message, level='info')</code>: logging function to record debug information in <code>ir.logging</code> table","<code>log(message, level='info')</code>: функција за логирање на дебаг информации во табелата <code>ir.logging</code>","<code>, </code>, <code>, </code>","<code>, </code>, <code>, </code>"
+<code>model</code>: model of the record on which the action is triggered; is a void recordset,<code>model</code>: модел на записот на кој се активира акцијата; е празен сет на записи,"<code>, </code>","<code>, </code>"
+<code>record</code>: record on which the action is triggered,<code>record</code>: запис на кој се активира акцијата,"<code>, </code>","<code>, </code>"
+<code>record</code>: record on which the action is triggered; may be be void,<code>record</code>: запис на кој се активира акцијата; може да биде ништовен,"<code>, </code>","<code>, </code>"
+<code>records</code>: recordset of all records on which the action is triggered in multi mode,<code>записи</code>: сет на записи од сите записи на кои се активира акцијата во мулти-режим,"<code>, </code>","<code>, </code>"
+<code>records</code>: recordset of all records on which the action is triggered in multi mode; may be void,<code>записи</code>: сет од сите записи на кои се активира акцијата во мулти-режим; може да биде празен,"<code>, </code>","<code>, </code>"
+<code>self</code> (the set of records to compute),<code>self</code> (множеството записи за пресметување),"<code>, </code>","<code>, </code>"
+<code>time</code> (Python module),<code>време</code> (Python модул),"<code>, </code>","<code>, </code>"
+"<code>time</code>, <code>datetime</code>, <code>dateutil</code>, <code>timezone</code>: useful Python libraries","<code>time</code>, <code>datetime</code>, <code>dateutil</code>, <code>timezone</code>: корисни Python библиотеки","<code>, </code>, <code>, </code>, <code>, </code>, <code>, </code>","<code>, </code>, <code>, </code>, <code>, </code>, <code>, </code>"
+"<i class=""fa fa-building"" role=""img"" aria-label=""Enterprise"" title=""Enterprise""/>","<i class=""fa fa-building"" role=""img"" aria-label=""Enterprise"" title=""Enterprise""/>","<i class=""fa fa-building"" role=""img"" aria-label=""Enterprise"" title=""Enterprise""/>","<i class=""fa fa-building"" role=""img"" aria-label=""Enterprise"" title=""Enterprise""/>"
+"<i class=""fa fa-circle"" role=""img"" aria-label=""Invalid"" title=""Invalid""/>","<i class=""fa fa-circle"" role=""img"" aria-label=""Invalid"" title=""Invalid""/>","<i class=""fa fa-circle"" role=""img"" aria-label=""Invalid"" title=""Invalid""/>","<i class=""fa fa-circle"" role=""img"" aria-label=""Invalid"" title=""Invalid""/>"
+"<i class=""fa fa-circle"" role=""img"" aria-label=""Ok"" title=""Ok""/>","<i class=""fa fa-circle"" role=""img"" aria-label=""Ok"" title=""Ok""/>","<i class=""fa fa-circle"" role=""img"" aria-label=""Ok"" title=""Ok""/>","<i class=""fa fa-circle"" role=""img"" aria-label=""Ok"" title=""Ok""/>"
+"<i class=""fa fa-envelope me-1"" role=""img"" aria-label=""Login""/>","<i class=""fa fa-envelope me-1"" role=""img"" aria-label=""Login""/>","<i class=""fa fa-envelope me-1"" role=""img"" aria-label=""Login""/>","<i class=""fa fa-envelope me-1"" role=""img"" aria-label=""Login""/>"
+"<i class=""fa fa-gear""/> Detect Max Limit","<i class=""fa fa-gear""/> Откриј максимален лимит","<i class=""fa fa-gear""/>","<i class=""fa fa-gear""/>"
+"<i class=""fa fa-info fa-3x text-info float-start"" role=""img"" aria-label=""Info"" title=""Info""/>","<i class=""fa fa-info fa-3x text-info float-start"" role=""img"" aria-label=""Info"" title=""Info""/>","<i class=""fa fa-info fa-3x text-info float-start"" role=""img"" aria-label=""Info"" title=""Info""/>","<i class=""fa fa-info fa-3x text-info float-start"" role=""img"" aria-label=""Info"" title=""Info""/>"
+"<span class=""badge rounded-pill bg-light border"">inactive</span>","<span class=""badge rounded-pill bg-light border"">неактивен</span>","<span class=""badge rounded-pill bg-light border"">, </span>","<span class=""badge rounded-pill bg-light border"">, </span>"
+"<span class=""fa fa-laptop fs-1"" title=""Computer"" role=""img"" aria-label=""Computer""/>","<span class=""fa fa-laptop fs-1"" title=""Computer"" role=""img"" aria-label=""Computer""/>","<span class=""fa fa-laptop fs-1"" title=""Computer"" role=""img"" aria-label=""Computer""/>","<span class=""fa fa-laptop fs-1"" title=""Computer"" role=""img"" aria-label=""Computer""/>"
+"<span class=""fa fa-mobile fs-1"" title=""Mobile"" role=""img"" aria-label=""Mobile""/>","<span class=""fa fa-mobile fs-1"" title=""Mobile"" role=""img"" aria-label=""Mobile""/>","<span class=""fa fa-mobile fs-1"" title=""Mobile"" role=""img"" aria-label=""Mobile""/>","<span class=""fa fa-mobile fs-1"" title=""Mobile"" role=""img"" aria-label=""Mobile""/>"
+"<span class=""o_form_label"" colspan=""2"">Click on Update below to start the process...</span>","<span class=""o_form_label"" colspan=""2"">Кликнете на Ажурирај подолу за да го започнете процесот...</span>","<span class=""o_form_label"" colspan=""2"">, </span>","<span class=""o_form_label"" colspan=""2"">, </span>"
+"<span class=""o_form_label"">MB</span>","<span class=""o_form_label"">MB</span>","<span class=""o_form_label"">, </span>","<span class=""o_form_label"">, </span>"
+"<span class=""o_form_label"">The selected modules have been updated/installed!</span>","<span class=""o_form_label"">Избраните модули се ажурирани/инсталирани!</span>","<span class=""o_form_label"">, </span>","<span class=""o_form_label"">, </span>"
+"<span class=""o_form_label"">We suggest to reload the menu tab to see the new menus (Ctrl+T then Ctrl+R).""</span>","<span class=""o_form_label"">Предлагаме да го освежите јазичето на менито за да ги видите новите менија (Ctrl+T, а потоа Ctrl+R).</span>","<span class=""o_form_label"">, </span>","<span class=""o_form_label"">, </span>"
+"<span class=""o_stat_text"">Activate and Translate</span>","<span class=""o_stat_text"">Активирај и преведи</span>","<span class=""o_stat_text"">, </span>","<span class=""o_stat_text"">, </span>"
+"<span class=""o_stat_text"">Add to the 'Print' menu</span>","<span class=""o_stat_text"">Додај во менито ""Печати""</span>","<span class=""o_stat_text"">, </span>","<span class=""o_stat_text"">, </span>"
+"<span class=""o_stat_text"">Qweb Views</span>","<span class=""o_stat_text"">Qвеб-прегледи</span>","<span class=""o_stat_text"">, </span>","<span class=""o_stat_text"">, </span>"
+"<span class=""o_stat_text"">Remove from the 'Print' menu</span>","<span class=""o_stat_text"">Отстрани од менито ""Печати""</span>","<span class=""o_stat_text"">, </span>","<span class=""o_stat_text"">, </span>"
+"<span class=""text-white text-uppercase"">Danger Zone</span>","<span class=""text-white text-uppercase"">Зона на опасност</span>","<span class=""text-white text-uppercase"">, </span>","<span class=""text-white text-uppercase"">, </span>"
+"<span colspan=""2"" class=""text-muted""> Available variables: </span>","<span colspan=""2"" class=""text-muted""> Достапни променливи: </span>","<span colspan=""2"" class=""text-muted"">, </span>","<span colspan=""2"" class=""text-muted"">, </span>"
+"<span colspan=""2"">Current Year with Century: %(year)s</span>
+                                <span colspan=""2"">Current Year without Century: %(y)s</span>
+                                <span colspan=""2"">Month: %(month)s</span>
+                                <span colspan=""2"">Day: %(day)s</span>","<span colspan=""2"">Тековна година со век: %(year)s</span> <span colspan=""2"">Тековна година без век: %(y)s</span> <span colspan=""2"">Месец: %(month)s</span> <span colspan=""2"">Ден: %(day)s</span>","<span colspan=""2"">, </span>, <span colspan=""2"">, </span>, <span colspan=""2"">, </span>, <span colspan=""2"">, </span>","<span colspan=""2"">, </span>, <span colspan=""2"">, </span>, <span colspan=""2"">, </span>, <span colspan=""2"">, </span>"
+"<span colspan=""2"">Day of the Year: %(doy)s</span>
+                                <span colspan=""2"">Week of the Year: %(woy)s</span>
+                                <span colspan=""2"">Day of the Week (0:Monday): %(weekday)s</span>","<span colspan=""2"">Ден од годината: %(doy)s</span> <span colspan=""2"">Недела од годината: %(woy)s</span> <span colspan=""2"">Ден од неделата (0:Понеделник): %(weekday)s</span>","<span colspan=""2"">, </span>, <span colspan=""2"">, </span>, <span colspan=""2"">, </span>","<span colspan=""2"">, </span>, <span colspan=""2"">, </span>, <span colspan=""2"">, </span>"
+"<span colspan=""2"">Hour 00-&gt;24: %(h24)s</span>
+                                <span colspan=""2"">Hour 00-&gt;12: %(h12)s</span>
+                                <span colspan=""2"">Minute: %(min)s</span>
+                                <span colspan=""2"">Second: %(sec)s</span>","<span colspan=""2"">Час 00->24: %(h24)s</span> <span colspan=""2"">Час 00->12: %(h12)s</span>
+                                <span colspan=""2"">Минута: %(min)s</span> <span colspan=""2"">Секунда: %(sec)s</span>","<span colspan=""2"">, </span>, <span colspan=""2"">, </span>, <span colspan=""2"">, </span>, <span colspan=""2"">, </span>","<span colspan=""2"">, </span>, <span colspan=""2"">, </span>, <span colspan=""2"">, </span>, <span colspan=""2"">, </span>"
+"<span invisible=""evaluation_type != 'value' or update_field_type in ['one2many', 'many2many']"">to</span>","<span invisible=""evaluation_type != 'value' or update_field_type in ['one2many', 'many2many']"">во</span>","<span invisible=""evaluation_type != 'value' or update_field_type in ['one2many', 'many2many']"">, </span>","<span invisible=""evaluation_type != 'value' or update_field_type in ['one2many', 'many2many']"">, </span>"
+"<span invisible=""evaluation_type != 'value' or update_field_type not in ['one2many', 'many2many']"">by</span>","<span invisible=""evaluation_type != 'value' or update_field_type not in ['one2many', 'many2many']"">од</span>","<span invisible=""evaluation_type != 'value' or update_field_type not in ['one2many', 'many2many']"">, </span>","<span invisible=""evaluation_type != 'value' or update_field_type not in ['one2many', 'many2many']"">, </span>"
+"<span invisible=""not is_company"">Address</span>","<span invisible=""not is_company"">Адреса</span>","<span invisible=""not is_company"">, </span>","<span invisible=""not is_company"">, </span>"
+"<span invisible=""reset_mode != 'soft'"">This view has no previous version.</span>
+                        <span invisible=""reset_mode != 'hard'"">This view is not coming from a file.</span>
+                        <span invisible=""reset_mode != 'other_view'"">You need two views to compare.</span>","<span invisible=""reset_mode != 'soft'"">Овој преглед нема претходна верзија.</span> <span invisible=""reset_mode != 'hard'"">Овој преглед не е од фајл.</span> <span invisible=""reset_mode != 'other_view'"">Потребни ви се два прегледи за споредба.</span>","<span invisible=""reset_mode != 'soft'"">, </span>, <span invisible=""reset_mode != 'hard'"">, </span>, <span invisible=""reset_mode != 'other_view'"">, </span>","<span invisible=""reset_mode != 'soft'"">, </span>, <span invisible=""reset_mode != 'hard'"">, </span>, <span invisible=""reset_mode != 'other_view'"">, </span>"
+"<span invisible=""update_field_id != False or evaluation_type == 'equation'"" class=""text-muted"">Set a value...</span>
+                            <span invisible=""evaluation_type != 'equation'"">
+                                to this Python expression:
+                            </span>","<span invisible=""update_field_id != False or evaluation_type == 'equation'"" class=""text-muted"">Поставете вредност...</span> <span invisible=""evaluation_type != 'equation'""> за овој Python израз: </span>","<span invisible=""update_field_id != False or evaluation_type == 'equation'"" class=""text-muted"">, </span>, <span invisible=""evaluation_type != 'equation'"">, </span>","<span invisible=""update_field_id != False or evaluation_type == 'equation'"" class=""text-muted"">, </span>, <span invisible=""evaluation_type != 'equation'"">, </span>"
+"<span>, </span>","<span>, </span>","<span>, </span>","<span>, </span>"
+<span>Directory</span>,<span>Директориум</span>,"<span>, </span>","<span>, </span>"
+<span>Module</span>,<span>Модул</span>,"<span>, </span>","<span>, </span>"
+<span>Name</span>,<span>Име</span>,"<span>, </span>","<span>, </span>"
+<span>Object:</span>,<span>Објект:</span>,"<span>, </span>","<span>, </span>"
+"<span>Other address for the company (e.g. subsidiary, ...)</span>","<span>Друга адреса за компанијата (на пр. подружница, ...)</span>","<span>, </span>","<span>, </span>"
+<span>Preferred address for all deliveries. Selected by default when you deliver an order that belongs to this company.</span>,<span>Претпочитана адреса за сите испораки. Се избира по подразбирање кога доставувате нарачка што припаѓа на оваа компанија.</span>,"<span>, </span>","<span>, </span>"
+<span>Preferred address for all invoices. Selected by default when you invoice an order that belongs to this company.</span>,<span>Претпочитана адреса за сите фактури. Се избира по подразбирање кога фактурирате нарачка што припаѓа на оваа компанија.</span>,"<span>, </span>","<span>, </span>"
+"<span>Use this to organize the contact details of employees of a given company (e.g. CEO, CFO, ...).</span>","<span>Користете го ова за да ги организирате контакт-податоците на вработените во дадена компанија (на пр. извршен директор, финансиски директор, ...).</span>","<span>, </span>","<span>, </span>"
+<span>Version</span>,<span>верзија</span>,"<span>, </span>","<span>, </span>"
+<span>Web</span>,<span>Веб</span>,"<span>, </span>","<span>, </span>"
+<strong>Apps</strong>,<strong>Апликации</strong>,"<strong>, </strong>","<strong>, </strong>"
+<strong>Attribute</strong>,<strong>Атрибут</strong>,"<strong>, </strong>","<strong>, </strong>"
+<strong>C</strong>,<strong>C</strong>,"<strong>, </strong>","<strong>, </strong>"
+<strong>Dependencies:</strong>,<strong>Зависности:</strong>,"<strong>, </strong>","<strong>, </strong>"
+<strong>Email:</strong>,<strong>Е-пошта:</strong>,"<strong>, </strong>","<strong>, </strong>"
+<strong>Group</strong>,<strong>Група</strong>,"<strong>, </strong>","<strong>, </strong>"
+<strong>Idx</strong>,<strong>Ид</strong>,"<strong>, </strong>","<strong>, </strong>"
+"<strong>Important:</strong>
+                            The key cannot be retrieved later and provides <b>full access</b>
+                            to your user account, it is very important to store it securely.","<strong>Важно:</strong> Клучот не може да се поврати подоцна и овозможува <b>целосен пристап</b> до вашата корисничка сметка, многу е важно да го чувате безбедно.","<strong>, </strong>, <b>, </b>","<strong>, </strong>, <b>, </b>"
+<strong>Inherited</strong>,<strong>Наследено</strong>,"<strong>, </strong>","<strong>, </strong>"
+<strong>Label</strong>,<strong>Ознака</strong>,"<strong>, </strong>","<strong>, </strong>"
+<strong>Menu:</strong>,<strong>Мени:</strong>,"<strong>, </strong>","<strong>, </strong>"
+<strong>Name</strong>,<strong>Име</strong>,"<strong>, </strong>","<strong>, </strong>"
+<strong>Phone:</strong>,<strong>Телефон:</strong>,"<strong>, </strong>","<strong>, </strong>"
+<strong>Phone</strong>,<strong>Телефон</strong>,"<strong>, </strong>","<strong>, </strong>"
+<strong>Please confirm your identity by entering your password</strong>,<strong>Ве молиме потврдете го вашиот идентитет со внесување на вашата лозинка</strong>,"<strong>, </strong>","<strong>, </strong>"
+<strong>R</strong>,<strong>R</strong>,"<strong>, </strong>","<strong>, </strong>"
+<strong>Reports:</strong>,<strong>Извештаи:</strong>,"<strong>, </strong>","<strong>, </strong>"
+<strong>Ro</strong>,<strong>Ро</strong>,"<strong>, </strong>","<strong>, </strong>"
+<strong>Rq</strong>,<strong>Rq</strong>,"<strong>, </strong>","<strong>, </strong>"
+<strong>Seq</strong>,<strong>Низа</strong>,"<strong>, </strong>","<strong>, </strong>"
+<strong>The contact linked to this user is still active</strong>,<strong>Контактот поврзан со овој корисник е сè уште активен</strong>,"<strong>, </strong>","<strong>, </strong>"
+<strong>This operation will permanently erase all data currently stored by the modules!</strong>,<strong>Оваа операција трајно ќе ги избрише сите податоци што во моментов се зачувани во модулите!</strong>,"<strong>, </strong>","<strong>, </strong>"
+<strong>Tr</strong>,<strong>Ред</strong>,"<strong>, </strong>","<strong>, </strong>"
+<strong>Type</strong>,<strong>Тип</strong>,"<strong>, </strong>","<strong>, </strong>"
+<strong>U</strong>,<strong>U</strong>,"<strong>, </strong>","<strong>, </strong>"
+<strong>View:</strong>,<strong>Приказ:</strong>,"<strong>, </strong>","<strong>, </strong>"
+<strong>W</strong>,<strong>W</strong>,"<strong>, </strong>","<strong>, </strong>"
+<strong>XML ID</strong>,<strong>XML ID</strong>,"<strong>, </strong>","<strong>, </strong>"
+<u><strong>Fields</strong></u>,<u><strong>Полиња</strong></u>,"<u>, <strong>, </strong>, </u>","<u>, <strong>, </strong>, </u>"
+<u><strong>Security</strong></u>,<u><strong>Безбедност</strong></u>,"<u>, <strong>, </strong>, </u>","<u>, <strong>, </strong>, </u>"
+<u><strong>Views</strong></u>,<u><strong>Прегледи</strong></u>,"<u>, <strong>, </strong>, </u>","<u>, <strong>, </strong>, </u>"
+"A <graph> can only contains <field> nodes, found a <%s>","A <graph> може да содржи само <field> јазли, пронајдени во <%s>","<graph>, <field>, <%s>","<graph>, <field>, <%s>"
+"Addison Olson works in IT sector <b>since 10 years</b>. He is known
+    notably for selling mouse traps. With that trick he cut
+    IT budget by almost half within the last 2 years.",<b>Адисон Олсон работи во ИТ секторот веќе 10 години. Тој е особено познат по продажбата на стапици за глувци. Со тој трик тој го намали ИТ буџетот за речиси половина во последните две години.</b>,"<b>, </b>","<b>, </b>"
+"Be aware that editing the architecture of a standard view is not advised, since the changes will be overwritten during future module updates.<br/>
+                        We recommend applying modifications to standard views through inherited views or customization with Odoo Studio.","Имајте предвид дека уредувањето на архитектурата на стандарден приказ не се препорачува, бидејќи промените ќе бидат препишани при идните ажурирања на модулот.<br/> Препорачуваме да ги применувате измените на стандардните прикази преку наследени прикази или прилагодување со Odoo Studio.",<br/>,<br/>
+"Brandon works in IT sector <b>since 10 years</b>. He is known
+                notably for selling mouse traps. With that trick he cut
+                IT budget by almost half within the last 2 years.",<b>Брендон работи во ИТ секторот веќе 10 години. Тој е особено познат по продажбата на стапици за глувци. Со тој трик тој го намали ИТ буџетот за речиси половина во последните две години.</b>,"<b>, </b>","<b>, </b>"
+"Colleen Diaz works in IT sector <b>since 10 years</b>. He is known
+                notably for selling mouse traps. With that trick he cut
+                IT budget by almost half within the last 2 years.",Колин Дијаз работи во ИТ секторот <b>веќе 10 години</b>. Тој е особено познат по продажбата на стапици за глувци. Со тој трик тој го намали ИТ буџетот за речиси половина во последните две години.,"<b>, </b>","<b>, </b>"
+"Computed fields are defined with the fields
+                                                <strong>Dependencies</strong> and <strong>Compute</strong>.",Изчислените полиња се дефинираат со полињата <strong>Dependencies</strong> и <strong>Compute</strong>.,"<strong>, </strong>, <strong>, </strong>","<strong>, </strong>, <strong>, </strong>"
+"Computed fields are defined with the fields
+                                    <strong>Dependencies</strong> and <strong>Compute</strong>.",Изчислените полиња се дефинираат со полињата <strong>Dependencies</strong> и <strong>Compute</strong>.,"<strong>, </strong>, <strong>, </strong>","<strong>, </strong>, <strong>, </strong>"
+"Douglas Fletcher works in IT sector <b>since 10 years</b>. He is known
+    notably for selling mouse traps. With that trick he cut
+    IT budget by almost half within the last 2 years.",Даглас Флечер работи во ИТ секторот <b>веќе 10 години</b>. Тој е особено познат по продажбата на стапици за глувци. Со тој трик тој го намали ИТ буџетот за речиси половина во последните две години.,"<b>, </b>","<b>, </b>"
+Element <attribute> with 'add' or 'remove' cannot contain text %s,Елемент <attribute> со 'add' или 'remove' не може да содржи текст %s,<attribute>,<attribute>
+"Floyd Steward works in IT sector <b>since 10 years</b>. He is known
+    notably for selling mouse traps. With that trick he cut
+    IT budget by almost half within the last 2 years.",Флојд Стјуард работи во ИТ секторот <b>веќе 10 години</b>. Тој е особено познат по продажбата на стапици за глувци. Со тој трик тој го намали ИТ буџетот за речиси половина во последните две години.,"<b>, </b>","<b>, </b>"
+"Format email address ""Name <email@domain>""","Формат на адреса на е-пошта ""Name <email@domain>""",<email@domain>,<email@domain>
+"Gordon Owens works in IT sector <b>since 10 years</b>. He is known
+                notably for selling mouse traps. With that trick he cut
+                IT budget by almost half within the last 2 years.
+                Famous Senior Consultant.",<b>Гордон Овенс работи во ИТ секторот веќе 10 години. Тој е особено познат по продажбата на стапици за глувци. Со тој трик тој го намали ИТ буџетот за речиси половина во последните две години. Познат старши консултант.</b>,"<b>, </b>","<b>, </b>"
+Invalid attributes %s in element <attribute>,Невалидни атрибути %s во елемент <attribute>,<attribute>,<attribute>
+"It is very important that this description be clear
+                        and complete, <strong>it will be the only way to
+                        identify the key once created</strong>.","Многу е важно овој опис да биде јасен и целосен, <strong>тоа ќе биде единствениот начин да се идентификува клучот откако ќе биде создаден</strong>.","<strong>, </strong>","<strong>, </strong>"
+MTO Sale <-> Purchase,Продажба на МТО <-> Купување,<->,<->
+"Nicole is <b>author of several books</b>, including Amazon best seller
+                ""How Azure and Odoo will change the business world!"".","Никол е <b>автор на неколку книги</b>, вклучувајќи го и бестселерот на Амазон ""Како Azure и Odoo ќе го променат бизнис-светот!"".","<b>, </b>","<b>, </b>"
+"Nicole works in IT sector <b>since 20 years</b>. She
+                develops software to help develop websites.  She sold her
+                first company at 30 years old and manage to grow Azure Interior
+                from 1 to 55 employees mostly by reselling services on
+                Odoo.","<b>Никол работи во ИТ секторот веќе 20 години. Таа развива софтвер за помош при изработка на веб-страници. На 30-годишна возраст ја продаде својата прва компанија и успеа да ја развие Azure Interior од 1 до 55 вработени, главно преку препродавање услуги на Odoo.</b>","<b>, </b>","<b>, </b>"
+"Only applies if this view inherits from an other one (inherit_id is not False/Null).
+
+* if extension (default), if this view is requested the closest primary view
+is looked up (via inherit_id), then all views inheriting from it with this
+view's model are applied
+* if primary, the closest primary view is fully resolved (even if it uses a
+different model than this one), then this view's inheritance specs
+(<xpath/>) are applied, and the result is used as if it were this view's
+actual arch.
+","Се применува само ако овој приказ наследува од друг (inherit_id не е False/Null). * ако е екстензија (стандардно), ако се бара овој приказ, се бара најблискиот примарен приказ (преку inherit_id), потоа се применуваат сите прикази што наследуваат од него со моделот на овој приказ
+* ако е primary, најблискиот primary view се решава целосно (дури и ако користи поинаков модел од овој), потоа се применуваат наследничките спецификации на овој view (<xpath/>), и резултатот се користи како да е вистинската архитектонија на овој view. ",<xpath/>,<xpath/>
+"Other features are accessible through <code>self</code>, like
+                                                <code>self.env</code>, etc.","Други карактеристики се достапни преку <code>self</code>, како <code>self.env</code>, итн.","<code>, </code>, <code>, </code>","<code>, </code>, <code>, </code>"
+"Other features are accessible through <code>self</code>, like
+                                    <code>self.env</code>, etc.","Други карактеристики се достапни преку <code>self</code>, како <code>self.env</code>, итн.","<code>, </code>, <code>, </code>","<code>, </code>, <code>, </code>"
+Please confirm that you want to <b>irreversibly</b> make this database a demo database.,Ве молиме потврдете дека сакате <b>неповратно</b> да ја направите оваа база на податоци демо-база на податоци.,"<b>, </b>","<b>, </b>"
+"The field <strong>Compute</strong> is the Python code to
+                                                compute the value of the field on a set of records. The value of
+                                                the field must be assigned to each record with a dictionary-like
+                                                assignment.",Полето <strong>Compute</strong> е Python-код за пресметување на вредноста на полето врз збир на записи. Вредноста на полето мора да се додели на секој запис со доделување во стилот на речник.,"<strong>, </strong>","<strong>, </strong>"
+"The field <strong>Compute</strong> is the Python code to
+                                    compute the value of the field on a set of records. The value of
+                                    the field must be assigned to each record with a dictionary-like
+                                    assignment.",Полето <strong>Compute</strong> е Python-код за пресметување на вредноста на полето врз збир на записи. Вредноста на полето мора да се додели на секој запис со доделување во стилот на речник.,"<strong>, </strong>","<strong>, </strong>"
+"The field <strong>Dependencies</strong> lists the fields that
+                                                the current field depends on. It is a comma-separated list of
+                                                field names, like <code>name, size</code>. You can also refer to
+                                                fields accessible through other relational fields, for instance
+                                                <code>partner_id.company_id.name</code>.","Полето <strong>Dependencies</strong> ги наведува полињата од кои зависи тековното поле. Тоа е листа на имиња на полиња одделени со запирки, како <code>name, size</code>. Исто така, можете да се повикате на полиња достапни преку други релациски полиња, на пример <code>partner_id.company_id.name</code>.","<strong>, </strong>, <code>, </code>, <code>, </code>","<strong>, </strong>, <code>, </code>, <code>, </code>"
+"The field <strong>Dependencies</strong> lists the fields that
+                                    the current field depends on. It is a comma-separated list of
+                                    field names, like <code>name, size</code>. You can also refer to
+                                    fields accessible through other relational fields, for instance
+                                    <code>partner_id.company_id.name</code>.","Полето <strong>Dependencies</strong> ги наведува полињата од кои зависи тековното поле. Тоа е листа на имиња на полиња одделени со запирки, како <code>name, size</code>. Исто така, можете да се повикате на полиња достапни преку други релациски полиња, на пример <code>partner_id.company_id.name</code>.","<strong>, </strong>, <code>, </code>, <code>, </code>","<strong>, </strong>, <code>, </code>, <code>, </code>"
+"The root node of a %(view_type)s view should be a <%(view_type)s>, not a <%(tag)s>","Коренот на %(view_type)s видот треба да биде <%(view_type)s>, а не <%(tag)s>","<%(view_type)s>, <%(tag)s>","<%(view_type)s>, <%(tag)s>"
+"This file was generated using the universal <strong>Unicode/UTF-8</strong> file encoding, please be sure to view and edit
+                           using the same encoding.","Овој фајл е генериран со универзалното кодирање на датотеки <strong>Unicode/UTF-8</strong>, ве молиме погрижете се да го прегледувате и уредувате со истото кодирање.","<strong>, </strong>","<strong>, </strong>"
+"This is the module to manage the accounting chart for Norway in Odoo.
+
+Updated for Odoo 9 by Bringsvor Consulting AS <www.bringsvor.com>
+",Ова е модулот за управување со сметководствената табела за Норвешка во Odoo. Ажурирано за Odoo 9 од Bringsvor Consulting AS <www.bringsvor.com> ,<www.bringsvor.com>,<www.bringsvor.com>
+"To notify progress for CRON call and re-trigger a call if there is remaining tasks, use <code>env['ir.cron']._notify_progress(done=task_done_count, remaining=task_remaining_count)</code>","За да го известите напредокот за CRON и да го повикате повторно повикот ако има преостанати задачи, користете <code>env['ir.cron']._notify_progress(done=task_done_count, remaining=task_remaining_count)</code>","<code>, </code>","<code>, </code>"
+"To return an action, assign: <code>action = {...}</code>","За да се врати акција, додели: <code>action = {...}</code>","<code>, </code>","<code>, </code>"
+Use comma instead of the <br> tag to display the address,Користете запирка наместо тагот <br> за да ја прикажете адресата,<br>,<br>
